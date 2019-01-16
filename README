@@ -1,3 +1,6 @@
+
+This kernel is based from LSDK 18.03 linux kernel added with NVMe-oF-TCP changes from kernel 5.0.
+
 Linux kernel
 ============
 
